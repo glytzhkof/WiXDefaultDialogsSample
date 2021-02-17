@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
-  <Product Id="*" Name="WiXDefaultDialogsSample" Language="1033" Version="1.0.0.0" Manufacturer="Someone" UpgradeCode="9ea30291-40f5-4f14-a92e-00f4d60b75e5">
+  <Product Id="*" Name="WiXDefaultDialogsSample" Language="1033" Version="1.0.0.0" Manufacturer="Someone" UpgradeCode="PUT-GUID-HERE">
 		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
 
     <!-- TODO: Create a GUID using this link: https://www.guidgenerator.com/ and paste into the above UpgradeCode attribute -->

@@ -21,7 +21,7 @@
 
           <Component Feature="ProductFeature">
             <File Source="$(env.SystemRoot)\notepad.exe" />
-          </Component>
+          </Component> 
 
         </Directory>
       </Directory>
